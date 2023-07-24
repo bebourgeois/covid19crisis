@@ -1,0 +1,2 @@
+background=images/menus/backgrounds/coronavirus-4914026_1920.jpg
+

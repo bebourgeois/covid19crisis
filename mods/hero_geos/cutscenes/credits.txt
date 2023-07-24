@@ -1,0 +1,28 @@
+APPEND
+
+[vscroll]
+image=images/menus/logo.png
+separator=8
+
+text=Hero Credits - Covid-19 Crisis
+separator=16
+
+text=Lead Content Designers
+separator=16
+text=ndkk
+separator=32
+
+text=Visual Artists
+separator=16
+text=ndkk
+separator=32
+
+text=Foley Artists
+separator=16
+text=...
+separator=32
+
+text=Translators
+separator=16
+text=...
+separator=64

@@ -1,0 +1,318 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "geos/home.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "geos"
+    ],
+    "file.lastUsedOpenFilter": "全部文件 (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 0.75
+        },
+        "geos/PLAYER.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "geos/batcave'.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -1,
+                "y": -0.5
+            }
+        },
+        "geos/batcave.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 217.5,
+                "y": 222.5
+            }
+        },
+        "geos/beijing.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 136.5,
+                "y": -2.5
+            }
+        },
+        "geos/beijingcdc.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -35.5,
+                "y": 74.5
+            }
+        },
+        "geos/cdc.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 138.5,
+                "y": 148.5
+            }
+        },
+        "geos/city.tmx": {
+            "expandedObjectLayers": [
+                5,
+                4
+            ],
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1771.5,
+                "y": 273.5
+            }
+        },
+        "geos/field.tmx": {
+            "expandedObjectLayers": [
+                5,
+                4
+            ],
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 957.5,
+                "y": 637.5
+            }
+        },
+        "geos/goods.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "geos/home.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 1.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 439,
+                "y": 313
+            }
+        },
+        "geos/lockdowncity.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 93,
+                "y": 224.5
+            }
+        },
+        "geos/map1.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "geos/map_tall.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "geos/maps.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "geos/maps_tall.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "geos/newyork.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 208.5,
+                "y": 72.5
+            }
+        },
+        "geos/nucleiccamp.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -35.5,
+                "y": -0.5
+            }
+        },
+        "geos/nucleicstation.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -2,
+                "y": -1.5
+            }
+        },
+        "geos/palace.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 958,
+                "y": 1598
+            }
+        },
+        "geos/seafoodmarket.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 331.5,
+                "y": 142.5
+            }
+        },
+        "geos/shanghai.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 128.5,
+                "y": -2.5
+            }
+        },
+        "geos/thepit.tmx": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": -12.5,
+                "y": 147.5
+            }
+        },
+        "geos/tiled_collision.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "geos/virologyinstitute.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 151.5,
+                "y": -2.5
+            }
+        },
+        "geos/washington.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 235.5,
+                "y": 222.5
+            }
+        },
+        "geos/wuhan.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 276.5,
+                "y": 147.5
+            }
+        },
+        "geos/yunnan.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 217.5,
+                "y": 72.5
+            }
+        },
+        "goods.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "home.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 363.66666666666663,
+                "y": 330.3333333333333
+            }
+        },
+        "maps.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled_collision.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "title.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "/home/th/Public/hero/mods/hero_geos/maps",
+    "last.externalTilesetPath": "/home/th/Public/hero/tiled/geos",
+    "last.imagePath": "/home/th/Public/hero/art_src",
+    "lastUsedTilesetExportFilter": "全部文件 (*)",
+    "map.height": 40,
+    "map.lastUsedExportFilter": "全部文件 (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 60,
+    "openFiles": [
+        "geos/home.tmx",
+        "geos/city.tmx",
+        "geos/map1.tsx",
+        "geos/field.tmx",
+        "geos/palace.tmx",
+        "geos/goods.tsx"
+    ],
+    "project": "hero.tiled-project",
+    "recentFiles": [
+        "geos/goods.tsx",
+        "geos/palace.tmx",
+        "geos/field.tmx",
+        "geos/map1.tsx",
+        "geos/city.tmx",
+        "geos/home.tmx",
+        "geos/maps.tsx",
+        "geos/maps_tall.tsx",
+        "geos/map_tall.tsx",
+        "geos/tiled_collision.tsx",
+        "geos/PLAYER.tsx",
+        "home.tmx"
+    ],
+    "tileset.lastUsedFilter": "Tiled 图块集文件 (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 120,
+        "width": 120
+    },
+    "tileset.type": 0
+}
